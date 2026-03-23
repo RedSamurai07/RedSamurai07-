@@ -135,14 +135,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=redsamurai07&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 🔥 Featured Projects
 
 <div align="center">
@@ -184,14 +176,6 @@ me.say_hi()
 | 📊 **Demand Forecasting** | Time series forecasting for supply chain optimization | Prophet, LSTM, XGBoost | ✅ Complete |
 | 🤖 **LLM & RAG Application** | GenAI application with retrieval augmented generation | LangChain, OpenAI, FAISS | ✅ In Progress |
 | 💬 **Sentiment Analysis** | NLP pipeline for airline customer sentiment | BERT, Transformers, NLTK | ✅ Complete |
-
----
-
-## 📈 Contribution Stats
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=redsamurai07&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo"/>
-</p>
 
 ---
 
