@@ -1,6 +1,6 @@
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RedSamurai07/RedSamurai07/main/image_for_github.jpg"/>
+  <img src="https://raw.githubusercontent.com/RedSamurai07/RedSamurai07/main/image%20for%20github.jpg"/>
 </p>
 <!-- Header Banner -->
 <p align="center">
