@@ -21,7 +21,7 @@
 class DataScientist:
     def __init__(self):
         self.name = "P Samson Silvester"
-        self.role = "Data Scientist & AI/ML Specialist"
+        self.role = "Data Scientist & Gen AI / LLM Engineer"
         self.location = "Bengaluru, Karnataka, India"
         self.education = "Master's in Computer Science from Woolf University"
         self.currently_learning = ["LLMs", "RAG Applications", "GenAI","AI Automations","Prompt Engineering"]
